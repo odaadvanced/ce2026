@@ -22,3 +22,7 @@ Public
 sphero-sdk-raspberrypi-python
 Templates
 Videos
+total 12
+drwxr-xr-x 2 pi pi 4096 Jun 11 19:47 .
+drwxr-xr-x 4 pi pi 4096 Jun 11 19:47 ..
+-rw-r--r-- 1 pi pi  238 Jun 11 19:47 test.txt
