@@ -10,3 +10,15 @@ Public
 sphero-sdk-raspberrypi-python
 Templates
 Videos
+Bookshelf
+Desktop
+dev
+Documents
+Downloads
+mu_code
+Music
+Pictures
+Public
+sphero-sdk-raspberrypi-python
+Templates
+Videos
